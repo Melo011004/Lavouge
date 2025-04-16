@@ -1,42 +1,25 @@
 # Lavouge
 Software Design TP
 
-# Favorite Filipino Movies
+# My Top 3 Favorite Series
 
-## 🎬 Pinoy Movies
+## 🎬 International Movies
 ---
 
-### 1. Hello Love Goodbye 
->![image](https://github.com/user-attachments/assets/f5f7ee0a-4d26-4e5b-8b8c-a6031f38b33d)
+### 1. Stranger things 
+>![image]([https://images.app.goo.gl/QBPRm)
 
-- Kath and Alden love story 💕  
-- Sad ending but really nice  
-- Shows how hard OFW life is
->>A bartender romances a domestic helper despite the fact that she is moving to Canada. The film centers on the love story of Joy (Bernardo) and Ethan (Richards), Filipino workers based in Hong Kong.
+>>Stranger Things" is a science fiction horror drama series set in the 1980s in the fictional town of Hawkins, Indiana. The series follows a group of young friends who uncover a series of supernatural events and government experiments after a boy named Will Byers mysteriously vanishes. These events lead to the discovery of a parallel dimension called the Upside Down, where a young girl with telekinetic powers, Eleven, is found. 
 
-### 2. Four Sisters and a Wedding 
->![image](https://github.com/user-attachments/assets/ac2bb0e3-7368-4efa-85f9-56b7ea132624)
+### 2. The Gifted 
+>![image](https://images.app.goo.gl/Wke2VjgTCfh5BYKU8)
 
-- So many hugot lines 😭  
-- Mix of family drama and funny parts  
-- "Why is it always my fault?"
->>The film, directed by Cathy Garcia-Molina and released in 2013, depicts the narrative of four sisters who gather for their youngest brother’s wedding, providing a glimpse into the dynamics and hardships experienced by a modern Filipino family.
+>>Marvel expands its footprint on the television landscape with this new family adventure series about an ordinary suburban family whose lives change course forever when they discover their children have developed mutant powers. When the threat of a hostile government forces the family to go on the run to protect themselves, they join the ranks of an underground network of mutants. Together, the group fight to survive in a world where fear and misunderstanding put them at constant risk
 
-### 3. Heneral Luna  
->![image](https://github.com/user-attachments/assets/c1e308b8-a181-4547-9afe-e1e7a11a19de)
+### 3. The Twilight Saga
+>![image](https://images.app.goo.gl/FSswR)
 
-- History movie but very intense  
-- "Country or myself?" 🔥  
-- Super patriotic feelings
->>Heneral Luna (lit. 'General Luna') is a 2015 Filipino epic war film starring John Arcilla as the titular character Antonio Luna who led the Philippine Revolutionary Army during the early phases of the Philippine–American War. Directed by Jerrold Tarog and produced by Artikulo Uno Productions, it is the first installment of the Bayaniverse franchise. The film received critical acclaim from critics, praising its cinematography, writing, acting and plot. The film was selected as the Philippine entry for the Best Foreign Language Film at the 88th Academy Awards but it was not nominated.
+>>The Twilight Saga is a series of young adult fantasy romance novels by Stephenie Meyer, primarily focused on the romantic relationship between human teenager Bella Swan and vampire Edward Cullen. The series also explores themes of danger, suspense, and passion, as Bella navigates her new life in a world where vampires and werewolves exist.
 
-### 4. Kita Kita  
->![image](https://github.com/user-attachments/assets/b3160bde-4a68-49aa-8205-99fe466b8b20)
-
-- Cute love story in Japan  
-- Blind girl + funny guy  
-- Simple but very heartfelt 😢
-- beautiful and genuine connection but unrequited love
->>Kita Kita (I See You; キタ キタ) is a 2017 Philippine romantic comedy film written and directed by Sigrid Andrea P. Bernardo, and starring Alessandra de Rossi and Empoy Marquez. Set in Sapporo, Japan,[6] the film follows Lea (De Rossi), a Filipino tour guide living in Japan who goes blind after having witnessed her Japanese fiancé's infidelity. After a while, fellow Filipino and charmer Tonyo (Marquez) makes a sudden appearance and befriends the visually impaired Lea in the best possible ways; eventually, they fall for one another. The film is produced by Joyce Bernal and Piolo Pascual's Spring Films and distributed by Viva Films.
 
 ---
