@@ -5,12 +5,12 @@ Software Design TP
 
 ## 🎬 Pinoy Movies
 
-### 1. Hello Love Goodby  
+### 1. Hello Love Goodbye  
 - Kath and Alden love story 💕  
 - Sad ending but really nice  
 - Shows how hard OFW life is
 
-### 2. Four Sisters and a Weding  
+### 2. Four Sisters and a Wedding  
 - So many hugot lines 😭  
 - Mix of family drama and funny parts  
 - "Why is it always my fault?"
