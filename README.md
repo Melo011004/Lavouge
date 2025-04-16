@@ -40,7 +40,8 @@ Software Design TP
 >>Kita Kita (I See You; キタ キタ) is a 2017 Philippine romantic comedy film written and directed by Sigrid Andrea P. Bernardo, and starring Alessandra de Rossi and Empoy Marquez. Set in Sapporo, Japan,[6] the film follows Lea (De Rossi), a Filipino tour guide living in Japan who goes blind after having witnessed her Japanese fiancé's infidelity. After a while, fellow Filipino and charmer Tonyo (Marquez) makes a sudden appearance and befriends the visually impaired Lea in the best possible ways; eventually, they fall for one another. The film is produced by Joyce Bernal and Piolo Pascual's Spring Films and distributed by Viva Films.
 
 ### 5. Encantadia
->![image](https://images.app.goo.gl/gkPfBrak31eXAFAn8)
+>![17448068270901317267461370139651](https://github.com/user-attachments/assets/bdc38f72-5a70-4d5f-bf74-4f2521e1c6ab)
+
 
 
 - Unknown Future
